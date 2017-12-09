@@ -1,13 +1,13 @@
-files_list = [#["Hashed/Atlanta_FBI_Hashed.txt", 0, "Atlanta FBI"], 
-			  #["Hashed/MySpace_Hashed.txt", 1, "MySpace"],
+files_list = [["Hashed/Atlanta_FBI_Hashed.txt", 0, "Atlanta FBI"], 
+			  ["Hashed/MySpace_Hashed.txt", 1, "MySpace"],
 			  ["Hashed/MySpace/MySpace_Part_6.txt", 2, "MySpace"],
-			  #["Hashed/Twitter_Hashed.txt", 0, "Twitter"],
-			  #["Hashed/Web_Host_Hashed.txt", 1, "Web Host"], # For Email
-			  #["Hashed/Web_Host_Hashed.txt", 0], # For Username
-			  #["Hashed/XFactor_Hashed.txt", 5, "XFactor"],
+			  ["Hashed/Twitter_Hashed.txt", 0, "Twitter"],
+			  ["Hashed/Web_Host_Hashed.txt", 1, "Web Host"], # For Email
+			  ["Hashed/Web_Host_Hashed.txt", 0], # For Username
+			  ["Hashed/XFactor_Hashed.txt", 5, "XFactor"],
 			  ["Hashed/Ashley_Madison_Hashed.txt", 0, "Ashley Madison"],
-			  #["Hashed/Nulled_IO_Hashed.txt", 2, "Nulled.io"] # For Email
-			  #["Hashed/Nulled_IO_Hashed.txt", 1, "Nulled.io"] # For Username
+			  ["Hashed/Nulled_IO_Hashed.txt", 2, "Nulled.io"] # For Email
+			  ["Hashed/Nulled_IO_Hashed.txt", 1, "Nulled.io"] # For Username
 			 ]
 
 total_records = [0,0]
